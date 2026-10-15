@@ -21,7 +21,7 @@ I'm a CS graduate, and I plan to go deeper rather than wider.
 ### Projects
 
 **[AdAstra](https://github.com/amreenhassan13/Astronomical-Image-Detection-Object-Classification-and-Knowledge-Retrieval)** · [Live demo](https://adastra-virid.vercel.app)
-My CSE 400 thesis, built with [@TalalRahi](https://github.com/TalalRahi). Upload an image of the sky and it tells you what the object is, how sure it is, and what that object means, with a source for every claim. I trained and ran the classification models (EfficientNet B0, 83.66% across five classes, served through ONNX Runtime), built the retrieval layer that grounds every explanation in a FAISS indexed knowledge base with numbered citations, built the Sky page features, and wrote the thesis report. The design principle I care about most: it says "I'm not sure" instead of guessing confidently.
+My CSE 400 thesis. Upload an image of the sky and it tells you what the object is, how sure it is, and what that object means, with a source for every claim. I trained and ran the classification models (EfficientNet B0, 83.66% across five classes, served through ONNX Runtime), built the retrieval layer that grounds every explanation in a FAISS indexed knowledge base with numbered citations, built the Sky page features, and wrote the thesis report. The design principle I care about most: it says "I'm not sure" instead of guessing confidently.
 *PyTorch · ONNX Runtime · FastAPI · LangChain · FAISS · React*
 
 **[Telecom Churn Prediction](https://github.com/amreenhassan13/AI-Driven-Telecom-Churn-Prediction-Using-Machine-Learning-and-Deep-Learning)**
