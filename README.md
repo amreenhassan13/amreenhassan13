@@ -10,13 +10,11 @@
 
 ### About
 
-As a child I wanted to be an astrophysicist. Michio Kaku is still my favourite author, and his books did something I'm grateful for: they taught me to think past the edges of what I could see, to treat the universe as something with rules worth chasing rather than a ceiling I was stuck under. I didn't end up studying the stars. I ended up studying systems, which turned out to be the same curiosity wearing different clothes. My thesis was a platform that looks at images of galaxies and nebulae and tries to explain them honestly, so the childhood version of me got a say after all.
+I focus on extracting patterns, whether in a project, a system, or everyday life. Once something clicks, I start seeing it everywhere, and I turn it into a strategy: where to focus, what to weigh, and what the cheapest path to the goal looks like.
 
-What I'm actually good at is finding patterns. Once something clicks for me it stays, and afterwards I start seeing it everywhere. That's the part of computer science I love most, because the theory refuses to stay on the page. Scheduling is a way of deciding what deserves your attention and for how long, which is a question I answer every day whether or not there's a CPU involved. Dijkstra's algorithm is what it looks like to put honest weights on your options and find the cheapest path through them. These ideas were built for machines and they describe people just as well.
+Most of my work has been in machine learning, from training models to building retrieval systems that admit when they don't know, because a confident wrong answer does more damage than an uncertain one. Cybersecurity draws on the same skill in reverse: start from what an attacker wants and work backwards to the first small door someone left open.
 
-Machine learning is where most of my work has lived so far: training models, and building retrieval systems that have to admit when they don't know something, because a confident wrong answer does more damage than an uncertain one. Cybersecurity pulls at me for a different reason. It asks you to think in reverse, to start from the outcome an attacker wants and walk backwards until you reach the first small door someone left open. That's the same pattern finding instinct, pointed the other way down the hallway.
-
-I'm a fresh graduate, and my plan is to go deeper rather than wider.
+I'm a CS graduate, and I plan to go deeper rather than wider.
 
 <br>
 
